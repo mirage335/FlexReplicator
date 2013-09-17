@@ -1,0 +1,29 @@
+Copyright (C) 2013 mirage335
+See the end of the file for license conditions.
+See license.txt for FlexReplicator license conditions.
+
+mirage335-site.dyndns.org
+
+Advanced multi-tool desktop factory based on OpenRail.
+
+Intended to simultaneously operate multiple milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools. Simulations indicate deflection should be 8mm/metricTon of lateral force.
+
+Preview release, still in development.
+
+See render.png for assembly overview, or download free eDrawings viewer for further investigation.
+
+__Copyright__
+This file is part of FlexReplicator.
+
+FlexReplicator is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+FlexReplicator is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with FlexReplicator.  If not, see <http://www.gnu.org/licenses/>.
