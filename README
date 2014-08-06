@@ -12,6 +12,11 @@ Preview release, still in development.
 
 See render.png for assembly overview, or download free eDrawings viewer for further investigation.
 
+Total cost is around $1k, plus <$100 in tools, 3D printed parts, and belts.
+
+__FutureWork__
+Openbuilds has intriguing ACME high-pitch threaded rod actuators. Future versions of the FlexReplicator may use these if the belts prove inadequate. Belts are slightly preferred for speed during laser-rastering.
+
 __Copyright Extensions__
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
