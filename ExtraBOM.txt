@@ -10,3 +10,6 @@ Limit switches and associated brackets (not part of CAD model).
 
 Scrap wood, threaded rod, bearings, spool (optional spool holder).
 
+Various tools (eg. FDM extruder).
+
+PCB heater and pyrex glass surface (heated FDM build platform).
