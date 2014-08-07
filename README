@@ -17,6 +17,10 @@ Total cost is around $1k, plus <$100 in tools, 3D printed parts, and belts.
 __FutureWork__
 Openbuilds has intriguing ACME high-pitch threaded rod actuators. Future versions of the FlexReplicator may use these if the belts prove inadequate. Belts are slightly preferred for speed during laser-rastering.
 
+OpenBuilds has discontinued hardcoat aluminum rails in favor of polycarbonate wheels. While little if any performance degradation is expected, these substitutions need to be reflected in CAD model materials and BOM data.
+
+Supply chain issues are common to many parts in the BOM, secondary suppliers should be added.
+
 __Copyright Extensions__
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
 
