@@ -8,7 +8,7 @@ Advanced multi-tool desktop factory based on OpenRail.
 
 Intended to simultaneously operate multiple milling, laser, extrusion (FDM 3D Printing), and inkjet (powder 3D printing, 2D coloring) tools. Simulations indicate deflection should be 8mm/metricTon of lateral force.
 
-Preview release, still in development.
+Platform design complete, awaiting construction.
 
 See render.png for assembly overview, or download free eDrawings viewer for further investigation.
 
@@ -20,6 +20,11 @@ Openbuilds has intriguing ACME high-pitch threaded rod actuators. Future version
 OpenBuilds has discontinued hardcoat aluminum rails in favor of polycarbonate wheels. While little if any performance degradation is expected, these substitutions need to be reflected in CAD model materials and BOM data.
 
 Supply chain issues are common to many parts in the BOM, secondary suppliers should be added.
+
+__ReprapStatus__
+A few 3D printed plastic brackets are used, and may be self-replicated. As rigidity was a primary concern, most components are metal, and not 3D printable.
+
+However, unlike other RepRaps, this platform was explicitly designed for a variety of functionality, including CNC milling, PCB manufacture, and even semiconductor fabrication. Theoretically, one might use a FlexReplicator to manufacture intermediate equipment (eg. aluminum extruder, lathe), fabricate another FlexReplicator, and repeat.
 
 __Copyright Extensions__
 Files embedded into the design by mirage335 with a less restrictive license than GPLv3 place any derrived works under that license. This is definied to include any files pulled into the repository by mirage335 .
