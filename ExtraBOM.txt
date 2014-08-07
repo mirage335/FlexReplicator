@@ -3,3 +3,10 @@
 5 * http://openbuildspartstore.com/belt-tension-torsion-spring/
 
 1 * http://www.amazon.com/Magnetic-Slotted-Philips-Torx-Screwdriver/dp/B005EVV8LK
+
+Drywall screws or other fasteners. (Optional table attachment.)
+
+Limit switches and associated brackets (not part of CAD model).
+
+Scrap wood, threaded rod, bearings, spool (optional spool holder).
+
